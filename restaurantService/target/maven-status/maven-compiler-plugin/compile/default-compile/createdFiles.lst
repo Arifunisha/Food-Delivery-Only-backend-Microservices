@@ -1,0 +1,5 @@
+com\foodDelivery\restaurantService\entity\Restaurant.class
+com\foodDelivery\restaurantService\controller\RestaurantController.class
+com\foodDelivery\restaurantService\Repository\RestaurantRepository.class
+com\foodDelivery\restaurantService\service\RestaurantService.class
+com\foodDelivery\restaurantService\RestaurantServiceApplication.class
