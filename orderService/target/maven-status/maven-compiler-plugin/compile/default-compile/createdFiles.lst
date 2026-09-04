@@ -1,0 +1,5 @@
+com\foodDelivery\orderService\Entity\Order.class
+com\foodDelivery\orderService\OrderServiceApplication.class
+com\foodDelivery\orderService\Controller\OrderController.class
+com\foodDelivery\orderService\Service\OrderService.class
+com\foodDelivery\orderService\Repository\OrderRepository.class
