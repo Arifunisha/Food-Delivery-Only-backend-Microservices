@@ -1,0 +1,5 @@
+com\foodDelivery\UserService\Controller\UserController.class
+com\foodDelivery\UserService\UserServiceApplication.class
+com\foodDelivery\UserService\Service\UserService.class
+com\foodDelivery\UserService\Repository\UserRepository.class
+com\foodDelivery\UserService\entity\User.class
